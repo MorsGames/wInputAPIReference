@@ -4,11 +4,11 @@
 
 [API Reference](https://github.com/MorsGames/WalrusInputAPIReference/wiki) | [itch.io](https://mors-games.itch.io/WalrusInput)
 
-The usage of this library is very similar to Javascript's "setInterval()" and "setTimeout()" methods, so if you're familiar with Javascript this will also feel very familiar.
-
 This library is only tested on the Windows and HTML5 targets, but it should work on other platforms as well. It also comes with an example project that will teach you the basics.
 
-This repo only contains the API reference. Head to the itch.io page to get the library itself.
+Since I made this library primarily for my own personal projects, I will keep updating it on a regular basis.
+
+**This repo only contains the API reference. Head to the itch.io page to get the library itself.**
 
 
 ## Features
@@ -17,7 +17,7 @@ This repo only contains the API reference. Head to the itch.io page to get the l
 - Easy input remapping.
 - Detecting double and long presses.
 - Detecting the hold time and the last pressed action.
-- Mapping analog sticks as digital input.
+- Mapping analog sticks as digital inputs.
 - Getting the input name as a string.
 - Input recording and playback.
 ...and more!
@@ -79,3 +79,5 @@ v1.0.1 (12/03/2021):
 
 v1.0.0 (02/10/2020):
 - Initial release.
+
+If you have any questions, you can ask them in this project's [itch.io page](https://mors-games.itch.io/WalrusInput).
