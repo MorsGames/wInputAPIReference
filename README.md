@@ -75,9 +75,10 @@ This product is licensed under the following terms:
 
 
 ## Changelog
-v1.1.0 (06/11/2021):
+v1.1.0 (09/11/2021):
 - Rebranded the library.
 - Added "input_system_set_block_mouse_input_when_unfocused" and "input_system_get_block_mouse_input_when_unfocused", which is enabled by default.
+- Added "mouse_in_window".
 - Fixed some minor issues with the documentation and comments.
 - Optimized the extension better for YYC targets.
 - Made use of GameMaker's optional arguments when applicable.
