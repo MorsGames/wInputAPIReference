@@ -1,6 +1,6 @@
-# wInput v1.1.0
+# wInput v1.1.1
  
-**wInput** is a simple but also powerful **input management** library for **GameMaker Studio 2.3** that allows you to create actions and assign them to different inputs with ease. It also includes a bunch of other helpful extra features, like detecting double and long presses, and input recording/playback.
+**wInput** is a simple but also powerful **input management** library for **GameMaker** that allows you to create actions and assign them to different inputs with ease. It also includes a bunch of other helpful extra features, like detecting double and long presses, and input recording/playback.
 
 [API Reference](https://github.com/MorsGames/wInputAPIReference/wiki) | [itch.io](https://mors-games.itch.io/wInput)
 
@@ -75,6 +75,11 @@ This product is licensed under the following terms:
 
 
 ## Changelog
+v1.1.1 (31/03/2022):
+- Added full support for mouse scroll wheels.
+- Added support for additional mouse buttons with "mouse_get_button_name".
+- Fixed "input_system_set_block_mouse_input_when_unfocused" crashing the game.
+
 v1.1.0 (09/11/2021):
 - Rebranded the library.
 - Added "input_system_set_block_mouse_input_when_unfocused" and "input_system_get_block_mouse_input_when_unfocused", which is enabled by default.
